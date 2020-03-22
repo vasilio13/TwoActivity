@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Three</string>
+    <string name="numberhintText">Put a number</string>
+</resources>
